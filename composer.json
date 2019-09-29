@@ -1,0 +1,21 @@
+{
+    "name": "cylcode/attachment",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jerry",
+            "email": "502443279"
+        }
+    ],
+    "require": {
+        "cylcode/tools":"dev"
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "cylcode\\attachment\\": "src/"
+        }
+    }
+}
